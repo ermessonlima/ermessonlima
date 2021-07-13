@@ -8,7 +8,6 @@
   <img align="center" alt="Ermesson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ermesson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ermesson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ermesson-yoda" src="https://media.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif">
 </div>
   
   ##
